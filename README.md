@@ -1,0 +1,1 @@
+# maven-lib-folder-resolver
