@@ -24,3 +24,4 @@ nbdist/
 .nb-gradle/
 /nbactions.xml
 /log.txt
+/spring-shell.log
